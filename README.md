@@ -9,4 +9,4 @@ BSSID: 액세스 포인트의 MAC 주소.
 예상 RTT: 예측된 왕복 지연 시간.
 벤더 OUI: 벤더의 OUI(Organization Unique Identifier).
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/e95fca50-6868-437f-8686-2a27d81841b2)
